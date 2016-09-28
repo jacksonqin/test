@@ -1,5 +1,5 @@
 #include <stdio.h>
-<<<<<<< HEAD
+
 int multy(int a,int b)
 {
 	return a*b;
